@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="question_1">¿Android Studio es el entorno de desarrollo oficial para aplicaciones Android?</string>
+    <string name="question_2">¿Es posible desarrollar aplicaciones iOS en Android Studio?</string>
+    <string name="question_3">¿Gradle es el sistema de construcción de proyectos predeterminado en Android Studio?</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="btn_next">Next</string>
+</resources>
